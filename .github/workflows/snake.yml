@@ -5,6 +5,11 @@ on:
     - cron: "0 0 * * *" # every day
   workflow_dispatch:
 
+# --- ADD THIS SECTION ---
+permissions:
+  contents: write
+# ------------------------
+
 jobs:
   generate:
     runs-on: ubuntu-latest
