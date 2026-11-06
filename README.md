@@ -37,6 +37,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankitsneh-battsmart/ankitsneh-battsmart/main/koi/koi.gif" width="256" alt="My koi" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitsneh-battsmart/ankitsneh-battsmart/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitsneh-battsmart/ankitsneh-battsmart/output/github-snake.svg">
